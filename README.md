@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Simum Islam
 ### Solutions Developer | Full-Stack Web & Automation Specialist
 
-I am a results-driven developer based in Bangladesh with a focus on building high-conversion web platforms and sophisticated automation systems. With over **3 years of experience** and **50+ successfully shipped projects**, I help businesses bridge the gap between complex requirements and scalable technical solutions.
+I build high-performance web platforms and custom automation systems. With **3+ years of experience** and **50+ shipped projects**, I specialize in turning complex requirements into scalable tools.
 
 ---
 
@@ -19,23 +19,9 @@ I am a results-driven developer based in Bangladesh with a focus on building hig
 | **Languages** | Python, PHP, JavaScript (Node.js), SQL, HTML5, CSS3 |
 | **Frontend** | Tailwind CSS, Cabinet Grotesk, Syne |
 | **Backend/DB** | Node.js, PHP, MySQL |
-| **Automation** | Discord.js, Discord.py, Selenium, Webhooks |
+| **Automation** | Discord.js, Discord.py, Selenium, RPA, Webhooks |
 | **Tools** | Git, GitHub, VS Code, Linux |
 
----
-
-### 📊 Impact & Stats
-- 📦 **50+** Professional Projects Delivered.
-- 🛡️ **3+** Years of coding experience.
-- 🤖 **Automation Expert:** Specialized in Discord community scaling and workflow RPA.
-
----
-<!--
-### 🌟 Featured Projects
-- **GadgetFlow:** A high-conversion E-commerce platform optimized for speed.
-- **NexusBot:** A custom Discord integration for advanced community management.
-- **AutoLink:** A Python-based automation tool for cross-platform data syncing.
--->
 ---
 
 ### 📫 Let's Connect
